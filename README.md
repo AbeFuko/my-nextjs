@@ -14,7 +14,7 @@ https://dotinstall.com/lessons/basic_nextjs
 
 |![image](image.png)![image](image-1.png)![image](image-2.png)|  
 |:-:|  
-　  
+　    
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
